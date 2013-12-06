@@ -1,7 +1,7 @@
-Freewifi_in_CAN
+Freewifi_in_CAN_PEK
 ===============
 
-generates authCodes to be used in Guangzhou Baiyun Internation airport
+generates authCodes to be used in Guangzhou Baiyun and Beijing Capital Internation airport
 
 
 Prerequisites: 
